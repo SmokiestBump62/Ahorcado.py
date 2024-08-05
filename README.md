@@ -1,1 +1,1 @@
-# Agenda4_React.ja
+# El clasico juego de ahorcado para computadora con Python
